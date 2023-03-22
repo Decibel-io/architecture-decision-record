@@ -98,6 +98,10 @@ Decision guidance:
 
   * A number of decision making techniques exists, both general ones and software architecture specific ones, for instance, dialogue mapping.
 
+## ADR Adoption Process
+
+<img width="570" alt="Screenshot 2023-03-22 at 10 36 56" src="https://user-images.githubusercontent.com/93420471/226812240-a14202db-25f9-4a32-8988-a9f8e39f157c.png">
+
 
 ## How to start using ADRs with tools
 
@@ -192,22 +196,9 @@ A new ADR may take the place of a previous ADR:
 
   * When an AD is made that replaces or invalidates a previous ADR, then a new ADR should be created
 
+## ADR Review Process
 
-## ADR example templates
-
-ADR example templates that we have collected on the net:
-
-  * [ADR template by Michael Nygard](templates/decision-record-template-by-michael-nygard/index.md) (simple and popular)
-
-  * [ADR template by Jeff Tyree and Art Akerman](templates/decision-record-template-by-jeff-tyree-and-art-akerman/index.md) (more sophisticated)
-
-  * [ADR template for Alexandrian pattern](templates/decision-record-template-for-alexandrian-pattern/index.md) (simple with context specifics)
-
-  * [ADR template for business case](templates/decision-record-template-for-business-case/index.md) (more MBA-oriented, with costs, SWOT, and more opinions)
-
-  * [ADR template MADR](templates/decision-record-template-madr/index.md) (more Markdown)
-
-  * [ADR template using Planguage](templates/decision-record-template-using-planguage/index.md) (more quality assurance oriented)
+<img width="570" alt="Screenshot 2023-03-22 at 10 36 56" src="https://user-images.githubusercontent.com/93420471/226812383-33891734-a376-44e6-8f50-6d203e3bfb69.png">
 
 
 ## Teamwork advice
